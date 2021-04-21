@@ -1,0 +1,12 @@
+.MCUShows {
+    border: 10px solid #121f56;
+    width: 500px;
+    padding: 10px;
+    margin: 0 auto;
+    background-color: #121f56;
+    color: rgba(255, 255, 255, .9);
+}
+
+.MCUShows h1 {
+    text-align: center;
+}
